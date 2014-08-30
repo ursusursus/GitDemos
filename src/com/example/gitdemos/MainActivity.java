@@ -14,6 +14,10 @@ public class MainActivity extends Activity {
 		// Dasdasdsads
 		// Toto je TestBranch
 	}
+	
+	private void foo() {
+		//
+	}
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
