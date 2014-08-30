@@ -13,6 +13,10 @@ public class MainActivity extends Activity {
 		
 		// Dasdasdsads
 	}
+	
+	private void foo() {
+		//
+	}
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
