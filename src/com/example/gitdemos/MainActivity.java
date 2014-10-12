@@ -17,7 +17,7 @@ public class MainActivity extends Activity {
 	
 	/**
 	* Mrda ovce
-	* silny koment
+	* silny komentdsdasdsa
 	*/
 	private void foo() {
 		//
