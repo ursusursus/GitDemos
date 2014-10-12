@@ -6,4 +6,10 @@ public class Meh {
 		// ionjnji
 	}
 
+	public void foo() {
+		// 
+		//
+		//
+	}
+
 }
