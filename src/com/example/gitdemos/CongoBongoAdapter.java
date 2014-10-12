@@ -45,7 +45,7 @@ public class CongoBongoAdapter extends CursorAdapter {
 				view.setBackgroundColor(0xFFB40404);
 				break;
 			case 3:
-				view.setBackgroundColor(0xFF5F04B4);
+				view.setBackgroundColor(0xFF519818);
 				break;
 			case 4:
 				view.setBackgroundColor(0xFF2E64FE);
@@ -83,7 +83,7 @@ public class CongoBongoAdapter extends CursorAdapter {
 			// it says "0 seconds ago"
 			CharSequence charSeqAdded = DateUtils.getRelativeTimeSpanString(
 					dateAdded.getTime(),
-					System.currentTimeMillis() + 1000,
+					System.currentTimeMillis() + 2000,
 					DateUtils.SECOND_IN_MILLIS
 					);
 
@@ -96,6 +96,10 @@ public class CongoBongoAdapter extends CursorAdapter {
 
 	static class ViewHolder {
 		public TextView title;
+		public TextView timestamp;
+		public TextView timestamp;
+		public TextView timestamp;
+		public TextView timestamp;
 		public TextView timestamp;
 	}
 
