@@ -15,6 +15,9 @@ public class MainActivity extends Activity {
 		// Toto je TestBranch
 	}
 	
+	/**
+	* Mrda ovce
+	*/
 	private void foo() {
 		//
 	}
